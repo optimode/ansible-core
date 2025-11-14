@@ -17,7 +17,7 @@ A production-ready Docker image for Ansible Core with HashiCorp Vault support an
 ## Supported Versions
 
 | Image Tag | Python Version | Ansible Core |
-|-----------|----------------|----------------|--------------|
+|-----------|----------------|--------------|
 | `latest`, `2`, `2.19`, `2.19.4` | 3.12 | 2.19.4 |
 | `2.18`, `2.18.11` | 3.11 | 2.18.11 |
 
