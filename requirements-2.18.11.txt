@@ -1,0 +1,15 @@
+# Ansible 2.18.11 (stable) dependencies
+# Python 3.11 compatible
+
+ansible-core==2.18.11
+ansible-lint
+
+# HashiCorp Vault integration
+hvac==2.1.0
+
+# Utility libraries
+jmespath==1.0.1
+netaddr==1.2.1
+
+# Docker support
+docker==7.1.0

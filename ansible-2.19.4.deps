@@ -1,0 +1,17 @@
+_ansible_core_version: 2.19.4
+_python: >=3.11
+ansible.netcommon: 8.1.0
+ansible.posix: 2.1.0
+ansible.utils: 6.0.0
+community.crypto: 3.0.5
+community.dns: 3.4.0
+community.docker: 4.8.2
+community.general: 11.4.1
+community.hashi_vault: 7.1.0
+community.mongodb: 1.7.10
+community.mysql: 3.16.1
+community.postgresql: 4.1.0
+community.proxmox: 1.4.0
+community.proxysql: 1.7.0
+community.routeros: 3.13.0
+containers.podman: 1.18.0

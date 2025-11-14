@@ -1,0 +1,18 @@
+---
+collections:
+  - ansible.netcommon
+  - ansible.posix
+  - ansible.utils
+  - community.crypto
+  - community.dns
+  - community.docker
+  - community.general
+  - community.hashi_vault
+  - community.mysql
+  - community.mongodb
+  - community.network
+  - community.postgresql
+  - community.proxmox
+  - community.proxysql
+  - community.routeros
+  - containers.podman
